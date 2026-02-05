@@ -1,0 +1,6 @@
+create 2 projects:
+1. create a website repo clone it 
+2. initialize the repo add it to GitLab
+
+find the commands to unstage the changes
+use alias
